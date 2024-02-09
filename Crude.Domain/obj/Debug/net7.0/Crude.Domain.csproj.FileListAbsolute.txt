@@ -1,0 +1,15 @@
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\bin\Debug\net7.0\Crude.Domain.deps.json
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\bin\Debug\net7.0\Crude.Domain.dll
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\bin\Debug\net7.0\Crude.Domain.pdb
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\Crude.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\Crude.Domain.AssemblyInfoInputs.cache
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\Crude.Domain.AssemblyInfo.cs
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\Crude.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\Crude.Domain.sourcelink.json
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\Crude.Domain.dll
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\refint\Crude.Domain.dll
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\Crude.Domain.pdb
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\ref\Crude.Domain.dll
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\bin\Debug\net7.0\Crude.Domain.runtimeconfig.json
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\Crude.Domain.genruntimeconfig.cache
+C:\Users\Lyncas\Documents\cursos\c#\Poo\Crud.WebApi\Crude.Domain\obj\Debug\net7.0\Crude.Domain.csproj.AssemblyReference.cache

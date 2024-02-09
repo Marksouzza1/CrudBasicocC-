@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8DJ2JZHZAAjZZ2JKbJ11quPPsHGyezOkV/NrB3LY7WU=",
+  "Source": "Crude.WebApi",
+  "BasePath": "_content/Crude.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

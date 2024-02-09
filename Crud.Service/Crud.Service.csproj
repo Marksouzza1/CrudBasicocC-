@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Crud.Repository\Crud.Repository.csproj" />
+    <ProjectReference Include="..\Crude.Aplication\Crude.Aplication.csproj" />
+  </ItemGroup>
+
+</Project>

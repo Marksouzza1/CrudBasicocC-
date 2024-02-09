@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Service\\Crud.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Repository\\Crud.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Repository\\Crud.Repository.csproj",
+        "projectName": "Crud.Repository",
+        "projectPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Repository\\Crud.Repository.csproj",
+        "packagesPath": "C:\\Users\\Lyncas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lyncas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Domain\\Crude.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Domain\\Crude.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Service\\Crud.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Service\\Crud.Service.csproj",
+        "projectName": "Crud.Service",
+        "projectPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Service\\Crud.Service.csproj",
+        "packagesPath": "C:\\Users\\Lyncas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lyncas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Repository\\Crud.Repository.csproj": {
+                "projectPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crud.Repository\\Crud.Repository.csproj"
+              },
+              "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Aplication\\Crude.Aplication.csproj": {
+                "projectPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Aplication\\Crude.Aplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Aplication\\Crude.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Aplication\\Crude.Aplication.csproj",
+        "projectName": "Crude.Aplication",
+        "projectPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Aplication\\Crude.Aplication.csproj",
+        "packagesPath": "C:\\Users\\Lyncas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lyncas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Domain\\Crude.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Domain\\Crude.Domain.csproj",
+        "projectName": "Crude.Domain",
+        "projectPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Domain\\Crude.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lyncas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lyncas\\Documents\\cursos\\c#\\Poo\\Crud.WebApi\\Crude.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lyncas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
